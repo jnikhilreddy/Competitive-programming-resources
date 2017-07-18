@@ -8,7 +8,7 @@ Description about folders.
 
 1.Material       --       Contains general overview of the topics in competitive programming.  
 
-2.UVaprovpdf     --       Contains pdf version of all problems on UVa online judge.  
+2.UVa problems   --       Contains pdf version of all problems on UVa online judge.  
 
 3.Algorithms     --       Contains algorithm implementation and explanation in detail.
 
@@ -19,6 +19,8 @@ Description about folders.
 6.stl            --       Reference for standard templte library in C++.
 
 7.techniques     --       Some good practices in competitive programming.
+
+courses.txt   -- Courses available for learning online or some references
 
 And some more pdfs..
 
