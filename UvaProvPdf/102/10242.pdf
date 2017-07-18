@@ -1,0 +1,527 @@
+%PDF-1.3
+%‚„œ”
+2 0 obj
+<<
+/Length 5962
+>>
+stream
+BT
+/TT2 1 Tf
+18 0 0 18 263.6806 703.32 Tm
+/Cs6 cs 0 0 0 scn
+/GS1 gs
+0.0013 Tc
+0.002 Tw
+[(Problem)7.6( G)]TJ
+/TT4 1 Tf
+12 0 0 12 348.2806 703.32 Tm
+0 Tc
+0 Tw
+( )Tj
+/TT2 1 Tf
+24 0 0 24 231.6406 677.04 Tm
+0.0004 Tc
+-0.0004 Tw
+(Fourth Point!!)Tj
+/TT4 1 Tf
+12 0 0 12 380.4406 677.04 Tm
+0 Tc
+0 Tw
+( )Tj
+/TT2 1 Tf
+-10.54 -1.34 TD
+0.0032 Tc
+[(Input)6.2(:)]TJ
+/TT4 1 Tf
+2.73 0 TD
+-0.0002 Tc
+0.0002 Tw
+( standard input )Tj
+/TT2 1 Tf
+-3.34 -1.15 TD
+0.0035 Tc
+0 Tw
+[(Out)6.5(put)6.5(:)]TJ
+/TT4 1 Tf
+3.45 0 TD
+-0.0002 Tc
+0.0002 Tw
+( standard output )Tj
+/TT2 1 Tf
+-3.18 -1.15 TD
+0.0022 Tc
+-0.0022 Tw
+[(Tim)15.2(e)6( Li)-10(m)15.2(i)0(t)5.2(:)]TJ
+/TT4 1 Tf
+5.18 0 TD
+-0.0008 Tc
+0.0008 Tw
+[( 2 s)-11.6(econds )]TJ
+/TT2 1 Tf
+-5.34 -1.15 TD
+-0.0023 Tc
+0.0023 Tw
+[(Me)-8.5(m)10.7(o)-2.3(ry L)-5.3(i)-14.5(m)10.7(i)-4.5(t)-9.3(:)]TJ
+/TT4 1 Tf
+6.63 0 TD
+0.0003 Tc
+-0.0003 Tw
+[( 32 MB)7.3( )]TJ
+-20.69 -1.15 TD
+0 Tc
+0 Tw
+( )Tj
+T*
+-0.0013 Tc
+0.1313 Tw
+[(Given are)-7.5( the )]TJ
+/TT2 1 Tf
+6.02 0 TD
+-0.0005 Tc
+0.1305 Tw
+(\(x, y\))Tj
+/TT4 1 Tf
+2.29 0 TD
+[( )-10(coo)-10.5(r)2.5(dinates of the endp)-10.5(oints of two adjac)-6.7(e)3.3(nt sides of a par)-7.5(a)3.3(llelo)-10.5(g)9.5(r)2.5(am.)-10.5( )]TJ
+-8.31 -1.15 TD
+-0.0008 Tc
+0.0008 Tw
+[(F)5.4(i)-3(nd the )]TJ
+/TT2 1 Tf
+3.55 0 TD
+-0.0005 Tc
+0.0005 Tw
+(\(x, y\))Tj
+/TT4 1 Tf
+2.16 0 TD
+-0.0003 Tc
+0.0003 Tw
+[( )-10(coordinate)-6.5(s of the fourth point.  )]TJ
+-5.71 -1.15 TD
+0 Tc
+0 Tw
+( )Tj
+/TT2 1 Tf
+18 0 0 18 79.2406 544.6801 Tm
+-0.0027 Tc
+[(Inp)-6.5(u)0.1(t)]TJ
+/TT4 1 Tf
+12 0 0 12 122.2006 544.6801 Tm
+0 Tc
+( )Tj
+-3.58 -2.41 TD
+-0.0003 Tc
+0.0703 Tw
+[(Each line of input contai)-12.5(ns eig)9.7(h)-0.3(t floatin)-10.3(g)9.7( point numbers: the )]TJ
+/TT2 1 Tf
+25.02 0 TD
+-0.0005 Tc
+0.0705 Tw
+(\(x, y\))Tj
+/TT4 1 Tf
+2.23 0 TD
+-0.0006 Tc
+0.0706 Tw
+[( coo)-10.6(r)2.4(dinates of one of th)-10.6(e)-6.8( )]TJ
+-27.25 -1.15 TD
+-0.0003 Tc
+0.0503 Tw
+[(endpoints of the first sid)9.7(e)3.5( followed b)-10.3(y)19.7( the )]TJ
+/TT2 1 Tf
+17.31 0 TD
+-0.0005 Tc
+0.0505 Tw
+(\(x, y\))Tj
+/TT4 1 Tf
+2.21 0 TD
+-0.0007 Tc
+0.0507 Tw
+[( )-10(coordinates of the other )-10(endpoint of the first )]TJ
+-19.52 -1.15 TD
+0.0106 Tw
+[(side, followed b)-20.6(y)19.4( the )]TJ
+/TT2 1 Tf
+8.67 0 TD
+-0.0005 Tc
+0.0205 Tw
+(\(x, y\))Tj
+/TT4 1 Tf
+2.18 0 TD
+-0.0008 Tc
+0.0108 Tw
+[( coordinates o)-10.8(f)2.2( one of t)-13(h)-0.8(e endpoints of the secon)-10.8(d)-0.8( side followed b)-20.8(y)9.2( )]TJ
+-10.85 -1.15 TD
+0.0011 Tc
+0 Tw
+[(the)4.9( )]TJ
+/TT2 1 Tf
+1.53 0 TD
+-0.0005 Tc
+0.0605 Tw
+(\(x, y\))Tj
+/TT4 1 Tf
+2.22 0 TD
+-0.0006 Tc
+0.0606 Tw
+[( coordin)-10.6(a)3.2(tes of )-10(the other endpoint of the)-6.8( second side. All coordin)-10.6(a)3.2(tes ar)-7.6(e in meters, )]TJ
+-3.75 -1.15 TD
+0.0017 Tc
+0.1083 Tw
+[(to the)5.5( ne)5.5(ar)4.7(e)5.5(s)0.9(t mm. All coor)4.7(dina)5.5(te)5.5(s ar)4.7(e)5.5( b)-8.3(e)5.5(twe)5.5(e)5.5(n)-8.3( )]TJ
+/TT2 1 Tf
+19.97 0 TD
+0 Tc
+0 Tw
+[(-)-7(10000)]TJ
+/TT4 1 Tf
+2.84 0 TD
+-0.001 Tc
+0.111 Tw
+[( and )]TJ
+/TT2 1 Tf
+2.16 0 TD
+0 Tc
+0 Tw
+(+10000)Tj
+/TT4 1 Tf
+3.07 0 TD
+0.0012 Tc
+0.1088 Tw
+[(. )-10(I)14.2(npu)-8.8(t is te)5(r)4.2(mina)5(t)-1(e)5(d)1.2( b)-18.8(y)11.2( )]TJ
+-28.04 -1.14 TD
+-0.0007 Tc
+0.0007 Tw
+(end of file. )Tj
+/TT2 1 Tf
+18 0 0 18 79.2406 413.16 Tm
+-0.0015 Tc
+0 Tw
+(Output)Tj
+/TT4 1 Tf
+12 0 0 12 135.1606 413.16 Tm
+0 Tc
+( )Tj
+-4.66 -2.41 TD
+-0.0006 Tc
+0.0706 Tw
+[(F)5.6(o)-0.6(r ea)-6.8(ch line of input, p)9.4(r)2.4(int the )]TJ
+/TT2 1 Tf
+13.19 0 TD
+-0.0005 Tc
+0.0705 Tw
+(\(x, y\))Tj
+/TT4 1 Tf
+2.23 0 TD
+-0.0007 Tc
+0.0707 Tw
+[( coordinates of the fourth point)7.1( of t)7.1(h)-0.7(e parallelo)-10.7(g)9.3(r)2.3(am in )]TJ
+-15.42 -1.14 TD
+-0.0014 Tc
+0.0014 Tw
+[(m)-3.6(e)2.4(t)-3.6(e)2.4(rs, t)-3.6(o)-1.4( t)-3.6(h)-1.4(e nea)-7.6(r)1.6(est)-3.6( m)-13.6(m)-3.6(, separat)-3.6(e)2.4(d b)-21.4(y)18.6( )-10(a si)-3.6(ng)8.6(l)-13.6(e)2.4( )-10(space.  )]TJ
+/TT2 1 Tf
+18 0 0 18 79.2406 336.84 Tm
+0.0046 Tw
+[(Sample)-4.1( Input)]TJ
+/TT4 1 Tf
+12 0 0 12 183.6406 336.84 Tm
+0 Tc
+0 Tw
+( )Tj
+/F1 1 Tf
+-8.7 -1.13 TD
+[(0.000)-600(0.000)-600(0.000)-600(1.000)-600(0.000)-600(1.000)-600(1.000)-600(1.000)]TJ
+0 -1 TD
+[(1.000)-600(0.000)-600(3.500)-600(3.500)-600(3.500)-600(3.500)-600(0.000)-600(1.000)]TJ
+T*
+[(1.866)-600(0.000)-600(3.127)-600(3.543)-600(3.127)-600(3.543)-600(1.412)-600(3.145)]TJ
+/TT4 1 Tf
+0 -1.1 TD
+( )Tj
+/TT2 1 Tf
+18 0 0 18 79.2406 266.4001 Tm
+-0.0008 Tc
+0.0041 Tw
+[(Sample)-3.6( Output)]TJ
+/TT4 1 Tf
+12 0 0 12 196.7206 266.4001 Tm
+0 Tc
+0 Tw
+( )Tj
+/F1 1 Tf
+-9.79 -1.14 TD
+[(1.000)-600(0.000)]TJ
+0 -1 TD
+[(-2.500)-600(-2.500)]TJ
+T*
+[(0.151)-600(-0.398)]TJ
+/TT4 1 Tf
+7.2 0 TD
+( )Tj
+ET
+0.502 0.502 0.502 scn
+1 i 
+79.241 216.72 453.6 -1.56 re
+f*
+79.241 216.72 0.24 -0.24 re
+f
+79.241 216.72 0.24 -0.24 re
+f
+79.481 216.72 453.12 -0.24 re
+f
+0.831 0.816 0.784 scn
+532.601 216.72 0.24 -0.24 re
+f
+0.502 0.502 0.502 scn
+532.601 216.72 0.24 -0.24 re
+f
+79.241 216.48 0.24 -1.08 re
+f
+0.831 0.816 0.784 scn
+532.601 216.48 0.24 -1.08 re
+f
+0.502 0.502 0.502 scn
+79.241 215.4 0.24 -0.24 re
+f
+0.831 0.816 0.784 scn
+79.241 215.4 0.24 -0.24 re
+f
+79.481 215.4 453.12 -0.24 re
+f
+532.601 215.4 0.24 -0.24 re
+f
+532.601 215.4 0.24 -0.24 re
+f
+BT
+12 0 0 12 532.8406 212.64 Tm
+0 0 0 scn
+( )Tj
+/TT2 1 Tf
+-37.8 -0.93 TD
+-0.0014 Tc
+0.0014 Tw
+[(\(Worl)-3.6(d)-5.2( F)9.4(i)-3.6(n)-5.2(a)-1.4(l)-3.6(s)-2.2( War)-7.6(m)11.6(-)1.6(u)-15.2(p)-5.2( Con)-5.2(t)1.6(est, Prob)-5.2(l)-3.6(e)-7.6(m)11.6( S)-5.2(o)-1.4(u)-5.2(rce: )-10(Un)-5.2(i)-3.6(v)-1.4(ersi)-3.6(t)1.6(y of)-8.4( Al)-3.6(b)-5.2(e)2.4(r)-7.6(t)1.6(a L)-4.4(o)-1.4(cal)-3.6( Con)-5.2(t)1.6(est\) )]TJ
+0 -1.15 TD
+0 Tc
+0 Tw
+( )Tj
+T*
+( )Tj
+/TT4 1 Tf
+0.06 -1.13 TD
+-0.0005 Tc
+0.0005 Tw
+[(ìYou donít )-10(g)9.5(e)3.3(t a )-10(rank in )-10(a contest if )-20(y)19.5(ou donít sol)-12.7(v)-0.5(e an)-20.5(y)19.5( problem. So ther)-7.5(e)-6.7( must be a Problem )]TJ
+10.01 -1.15 TD
+-0.0014 Tc
+0.0014 Tw
+[(whi)-3.6(c)2.4(h can b)-11.4(e)2.4( sol)-3.6(v)-1.4(ed b)-21.4(y)18.6( a)-7.6(l)-3.6(m)-3.6(o)-1.4(st)-3.6( ever)-8.4(y)18.6( t)-13.6(eam)-3.6(.î )]TJ
+-10.07 -1.15 TD
+0 Tc
+0 Tw
+( )Tj
+ET
+endstream
+endobj
+3 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/F1 4 0 R
+/TT2 5 0 R
+/TT4 6 0 R
+>>
+/ExtGState <<
+/GS1 7 0 R
+>>
+/ColorSpace <<
+/Cs6 8 0 R
+>>
+>>
+endobj
+8 0 obj
+[/ICCBased 10 0 R]
+endobj
+10 0 obj
+<<
+/N 3
+/Alternate /DeviceRGB
+/Length 1752
+/Filter [/ASCII85Decode /FlateDecode]
+>>
+stream
+8;Ue`J:JRX)4@qW?l(3mZ5K?FY"gU0$k*22ab^2?$;$(<+FK$:)(<hW^]];o`Q<r[
+DSa%0[AeHIGmnBEg,B5?BtBX>Ae>P'2DHt\MfAg;.Y4r,d&d@7p4kH*BcqC%+C>2k
+2d+*P:f:8S$kcbFeZT%m)GkT&OIccS0*'NM+R'.,4TibY8ZaBAnMQIe'oWP0N"d71
+nrlrdJh)aP;KIa24S+a/:u'M+e.W./&!3B5llI9r"qVlEat<\"pr,^Yr?n<,#MFM+
+8Nk/_)aGqVFFS=NC'rVnRi.VZqU.\+@I=AX8HL+AA66W[KRT"g)*iXCC2l#YBfnS9
+8I>Jeq.Z6WWMBYY8RU[mLjq[==b,QSOC)#gq(+%InPN+\%MJX>jFcG["N]H))<.9X
+;#MNO4@%=*o#hC`NeiWlJCsM])C/0dej[#SEXP9"aDQ\`#lPmX27C<ecV=Ou<<2if
+0Ep-JYlu&;;#MNK'9Mj=m*=78Cd/F06hQ)u?@\gnAG6ER<WUomi+)scpDUX]R6Y3=
+_$9Nre:(/cfM*E[s+,QKh+7MMng/hagp@\]&>,AY$'?ZF!#qPmM4''_NLb]cMjoKg
+O'b.K86A8Z9O'n^8m4\b:0p4`8QeJ^9jL+b93Xnf:Z&t7aOnG\bhU(`b1akdcJHCb
+ak=Y`c/$:dbM1(hcT`O+-o`J//0#K:d4qnGnHk%DaXO3'ko#mlff?Tgq#uI@`?h?l
+jV=%\eMXaWoaQmTbq6&7m2_a'h*&H"r=^MQRQP0H[-9AYcC-n/m_&?'(+re'AEgD]
+.orfV]k6ZCoc#f,g:V"_[d?/"mb5?en%S`*%N[ZYjQNl/-Vg6oIHKn,o+s#c\pWW)
+[HfbhhR\-um_/K.*^4oJjQX#604)A=rT<LZpE)SJqY]I@\*lP1rqcTVn%\mtrZC+u
+#D)n?aRK60Ik^1Q"HW1o)>4$Np-079mY9;ZT_doJ!2@11ni$REi;1UDa9e^b<+ggJ
+WrjH[bnu2"]o5XEfo9X6%%8M#I;'10hUNh)da7Qpe\-*J)dcfHg\#aUpA#^[*LRr2
+3fQ46G5gf"krR@3conN.:JZ#WWF!L!)86(Ide_8^S+Y*s^c!?S_R56o'3@j?S5_B1
+nRUP!gSQAml'h0SCAcSFdnHX`T?]=-FS^V-4u7B+<1,aTk+>coZ`_SsR_=01bacs=
+hrgl\]en&DhR`Ngo=O2c>*-;Q`^9ERgD6b?R^ST#ES9>a9>Zu7?YZifjYEfHh95dM
+cWgBV7F6o:/'V.u>U?_VIl5^?da^#&`2pMRen+6/Fh6lSXqt="]n'TZl%W7Y'/j1O
+jLsg)ArFq"[]")3ZW26cf/CWcQ.nK=ce/5)8*#\g42#eYg1@s5lYaDlbP*FQRCu[D
+DuW#(I4b?qn#tIFog$?E2[@eB5!B[1kk<tk_cMj$*]\GoqrilHDT<5/G<EV>K^FUZ
+-`p/34CrMIqe<CcgWl1Xfm;6Am+-5ikI-p?5JQ61jb6tVD(b7gA:Nk%AXCT\Y'=85
+IF[fO`G;1!DHr75rnp8gN>FNpDLT5uG3eniL-)J\]']p\ST[fkhP0n9pX_V`Ha*7<
+bJQ,sJfiftSG`0TPN!s>T!gcAI5^K'r:?1,N*bjrl1X\bX6<V\?PgBSrMJtai7g9\
+1u<(pn*p>#LPQI:58J\Fs/G1fjQGW39YMMC)Y!FV\(ko:^N]X<r3>7Z`R!SZ_LF`K
+?2fWXc]#W-Is:k_rcdOTmf3<;!<<0,&/k~>
+endstream
+endobj
+7 0 obj
+<<
+/Type /ExtGState
+/SA false
+/SM 0.02
+/TR2 /Default
+>>
+endobj
+11 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 891
+/CapHeight 0
+/Descent -216
+/Flags 34
+/FontBBox [-558 -307 2034 1026]
+/FontName /TimesNewRomanPS-BoldMT
+/ItalicAngle 0
+/StemV 133
+>>
+endobj
+12 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 891
+/CapHeight 0
+/Descent -216
+/Flags 34
+/FontBBox [-568 -307 2028 1007]
+/FontName /TimesNewRomanPSMT
+/ItalicAngle 0
+/StemV 0
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 121
+/Widths [250 333 0 0 0 0 0 0 333 333 0 570 250 333 0 0 
+500 500 0 0 0 0 0 0 0 0 333 0 0 0 0 0 
+0 722 0 722 0 0 611 778 0 389 0 0 667 944 0 778 
+611 0 0 556 667 722 0 1000 0 0 0 0 0 0 0 0 
+0 500 556 444 556 444 333 0 556 278 0 0 278 833 556 500 
+556 0 444 389 333 556 500 0 500 500 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /TimesNewRomanPS-BoldMT
+/FontDescriptor 11 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 148
+/Widths [250 0 0 0 0 0 0 0 0 0 0 0 250 0 250 0 
+0 0 500 500 0 0 0 0 0 0 278 0 0 0 0 0 
+0 722 667 0 0 611 556 722 0 333 0 0 0 889 0 0 
+556 0 0 556 0 0 0 0 0 722 0 0 0 0 0 0 
+0 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 
+500 0 333 389 278 500 500 722 0 500 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 333 444 444 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /TimesNewRomanPSMT
+/FontDescriptor 12 0 R
+>>
+endobj
+1 0 obj
+<<
+/Type /Page
+/Parent 9 0 R
+/Resources 3 0 R
+/Contents 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/S /D
+>>
+endobj
+14 0 obj
+<<
+/Nums [0 13 0 R ]
+>>
+endobj
+9 0 obj
+<<
+/Type /Pages
+/Kids [1 0 R]
+/Count 1
+/MediaBox [0 0 612 792]
+>>
+endobj
+15 0 obj
+<<
+/Type /Catalog
+/Pages 9 0 R
+/PageLabels 14 0 R
+>>
+endobj
+16 0 obj
+<<
+/CreationDate (D:20020301150203)
+/Producer (Acrobat Distiller 4.0 for Windows)
+>>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000009550 00000 n 
+0000000016 00000 n 
+0000006030 00000 n 
+0000008513 00000 n 
+0000008608 00000 n 
+0000009055 00000 n 
+0000008079 00000 n 
+0000006175 00000 n 
+0000009698 00000 n 
+0000006209 00000 n 
+0000008150 00000 n 
+0000008335 00000 n 
+0000009630 00000 n 
+0000009658 00000 n 
+0000009779 00000 n 
+0000009848 00000 n 
+trailer
+<<
+/Size 17
+/Root 15 0 R
+/Info 16 0 R
+/ID [<0a8ef7471233fabc20802659c75d62e7><0a8ef7471233fabc20802659c75d62e7>]
+>>
+startxref
+9949
+%%EOF

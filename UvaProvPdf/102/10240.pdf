@@ -1,0 +1,837 @@
+%PDF-1.3
+%‚„œ”
+2 0 obj
+<<
+/Length 8855
+>>
+stream
+BT
+/TT2 1 Tf
+18 0 0 18 264.7606 703.32 Tm
+/Cs6 cs 0 0 0 scn
+/GS1 gs
+0.0013 Tc
+0.002 Tw
+[(Problem)7.6( E)]TJ
+/TT4 1 Tf
+12 0 0 12 347.3206 703.32 Tm
+0 Tc
+0 Tw
+( )Tj
+/TT2 1 Tf
+24 0 0 24 175.9606 677.04 Tm
+0.0004 Tc
+-0.0004 Tw
+(The n-Dimensional Cities)Tj
+/TT4 1 Tf
+12 0 0 12 436.1206 677.04 Tm
+0 Tc
+0 Tw
+( )Tj
+/TT2 1 Tf
+-15.18 -1.34 TD
+0.0032 Tc
+[(Input)6.2(:)]TJ
+/TT4 1 Tf
+2.73 0 TD
+-0.0002 Tc
+0.0002 Tw
+( standard input )Tj
+/TT2 1 Tf
+-3.34 -1.15 TD
+0.0035 Tc
+0 Tw
+[(Out)6.5(put)6.5(:)]TJ
+/TT4 1 Tf
+3.45 0 TD
+-0.0002 Tc
+0.0002 Tw
+( standard output )Tj
+/TT2 1 Tf
+-3.18 -1.15 TD
+0.0022 Tc
+-0.0022 Tw
+[(Tim)15.2(e)6( Li)-10(m)15.2(i)0(t)5.2(:)]TJ
+/TT4 1 Tf
+5.18 0 TD
+-0.0008 Tc
+0.0008 Tw
+[( 5 s)-11.6(econds )]TJ
+/TT2 1 Tf
+-5.34 -1.15 TD
+-0.0023 Tc
+0.0023 Tw
+[(Me)-8.5(m)10.7(o)-2.3(ry L)-5.3(i)-14.5(m)10.7(i)-4.5(t)-9.3(:)]TJ
+/TT4 1 Tf
+6.63 0 TD
+0.0003 Tc
+-0.0003 Tw
+[( 32 MB)7.3( )]TJ
+-19.79 -2.32 TD
+-0.013 Tc
+0.083 Tw
+[(In)-13( a)-9.2(n)-13( n)]TJ
+/TT2 1 Tf
+2.9 0 TD
+0 Tc
+0 Tw
+(-)Tj
+/TT4 1 Tf
+0.33 0 TD
+0.0011 Tc
+0.0689 Tw
+[(dime)4.9(nsiona)4.9(l spa)4.9(c)-5.1(e)4.9( the)4.9(r)4.1(e)4.9( c)4.9(a)4.9(n)1.1( be)4.9( ma)4.9(x)-8.9(imum)8.9( )]TJ
+/TT2 1 Tf
+17.4 0 TD
+-0.0015 Tc
+0 Tw
+[(\(n)-5.3(+1\))]TJ
+/TT4 1 Tf
+2.29 0 TD
+-0.0002 Tc
+0.0702 Tw
+[( points )10(that are equidistant from )]TJ
+-22.92 -1.15 TD
+-0.0007 Tc
+0.1907 Tw
+[(one another. The n-Dim)-12.9(e)3.1(nsional creatur)-7.7(es of co)-10.7(untr)-7.7(y)19.3( Talisman has build )]TJ
+/TT2 1 Tf
+31.17 0 TD
+-0.0015 Tc
+0 Tw
+[(\(n)-5.3(+1\))]TJ
+/TT4 1 Tf
+2.29 0 TD
+0.0022 Tc
+0.1878 Tw
+[( c)6(itie)6(s)11.4( )]TJ
+-33.46 -1.15 TD
+-0.0008 Tc
+0.0808 Tw
+[(which are )-10(equidistant from each other. The )-10(roads)-11.6( of Talisman are built ac)-7(cording)9.2( to the)-7( )]TJ
+T*
+0.0009 Tc
+-0.0009 Tw
+[(f)3.9(o)0.9(llowing)10.9( r)3.9(u)0.9(le)4.7(s )]TJ
+2.5 -2.32 TD
+-0.0038 Tc
+0 Tw
+(a\))Tj
+/TT6 1 Tf
+0.78 0 TD
+0 Tc
+( )Tj
+/TT4 1 Tf
+0.72 0 TD
+-0.0019 Tc
+0.0019 Tw
+[(Ever)-18.9(y)18.1( ci)-4.1(t)-24.1(y)18.1( i)-4.1(s)-2.7( re)-8.1(achabl)-4.1(e)-8.1( fr)-8.9(om)-4.1( ever)-18.9(y)18.1( ot)-4.1(her )-10(ci)-4.1(t)-14.1(y)18.1( vi)-14.1(a r)-8.9(o)-1.9(ad. )]TJ
+-1.5 -1.15 TD
+0 Tc
+0 Tw
+(b\))Tj
+/TT6 1 Tf
+0.83 0 TD
+( )Tj
+/TT4 1 Tf
+0.67 0 TD
+0.0009 Tc
+-0.0009 Tw
+[(A r)3.9(o)0.9(a)4.7(d)0.9( seg)10.9(m)-1.3(e)4.7(n)0.9(t onl)-21.3(y)20.9( c)4.7(o)0.9(n)-9.1(n)0.9(e)4.7(c)4.7(t)-1.3(s two dif)3.9(f)3.9(e)-5.3(r)3.9(e)4.7(nt c)4.7(itie)4.7(s.)-9.1( )]TJ
+-1.5 -1.15 TD
+-0.0038 Tc
+0 Tw
+(c\))Tj
+/TT6 1 Tf
+0.78 0 TD
+0 Tc
+( )Tj
+/TT4 1 Tf
+0.72 0 TD
+0.0009 Tc
+-0.0009 Tw
+[(The)4.7(r)3.9(e)4.7( is no mor)3.9(e)4.7( th)-9.1(a)4.7(n)0.9( on)-9.1(e)4.7( dir)3.9(e)4.7(c)4.7(t)-1.3( r)3.9(o)-9.1(a)4.7(d)0.9( seg)10.9(m)-1.3(e)4.7(n)0.9(t be)4.7(t)-11.3(w)3.1(e)4.7(e)4.7(n)0.9( two c)4.7(itie)4.7(s. )]TJ
+-1.5 -1.15 TD
+0 Tc
+0 Tw
+(d\))Tj
+/TT6 1 Tf
+0.83 0 TD
+( )Tj
+/TT4 1 Tf
+0.67 0 TD
+-0.0001 Tc
+0.1701 Tw
+[(I)12.9(f)2.9( )-20(y)19.9(ou take an)-20.1(y)19.9( arbitr)-7.1(ar)-7.1(y)19.9( )-10(cit)-12.3(y)19.9( )-20(y)19.9(ou will find tha)13.7(t)-2.3( no neig)9.9(hboring)9.9( cit)-22.3(y)29.9( of)-7.1( it )10(is )]TJ
+0 -1.15 TD
+0.0005 Tc
+0.0295 Tw
+[(dir)3.5(e)4.3(c)4.3(t)-1.7(l)-11.7(y)20.5( c)4.3(onne)4.3(c)4.3(t)-11.7(e)4.3(d. )10(Two c)4.3(itie)4.3(s )]TJ
+/TT2 1 Tf
+12.38 0 TD
+0 Tc
+0 Tw
+(A)Tj
+/TT4 1 Tf
+0.72 0 TD
+-0.001 Tc
+0.021 Tw
+[( and )]TJ
+/TT2 1 Tf
+1.98 0 TD
+0 Tc
+0 Tw
+(B)Tj
+/TT4 1 Tf
+0.67 0 TD
+-0.001 Tc
+0.021 Tw
+[( are nei)-13.2(g)9(hb)-11(oring)9( if and onl)-23.2(y)19( if the)-17.2(y)19( )-10(have )]TJ
+-15.75 -1.15 TD
+-0.0008 Tc
+0.0708 Tw
+[(a direct ro)-10.8(ad se)-7(g)9.2(m)-3(ent be)-7(tween them. )-10(I)12.2(f)2.2( two nei)-13(ghboring)9.2( cit)-23(y)19.2( of )]TJ
+/TT2 1 Tf
+26.24 0 TD
+0 Tc
+0 Tw
+(A)Tj
+/TT4 1 Tf
+0.72 0 TD
+0.0008 Tc
+0.0692 Tw
+(, is )Tj
+/TT2 1 Tf
+1.56 0 TD
+0 Tc
+0 Tw
+(B)Tj
+/TT4 1 Tf
+0.67 0 TD
+0.07 Tw
+[( a)-6.2(nd )]TJ
+/TT2 1 Tf
+2.09 0 TD
+0 Tw
+(C)Tj
+/TT4 1 Tf
+0.72 0 TD
+( )Tj
+-32 -1.15 TD
+0.0011 Tc
+[(the)4.9(n)1.1( )]TJ
+/TT2 1 Tf
+1.97 0 TD
+0 Tc
+(B)Tj
+/TT4 1 Tf
+0.67 0 TD
+-0.0013 Tc
+0.0013 Tw
+[( and)-11.3( )]TJ
+/TT2 1 Tf
+1.95 0 TD
+0 Tc
+0 Tw
+(C)Tj
+/TT4 1 Tf
+0.72 0 TD
+-0.0006 Tc
+0.0006 Tw
+[( will n)-10.6(e)3.2(ver)-7.6( )-10(be nei)-12.8(g)9.4(hbors.)-10.6( This is don)-10.6(e to ensu)-10.6(re s)-11.4(ecurit)-22.8(y)19.4( )-10(\(to r)-7.6(e)-6.7(duce )]TJ
+-5.31 -1.15 TD
+-0.0022 Tc
+0.0022 Tw
+[(al)-4.4(t)-4.4(e)1.6(rnat)-4.4(e p)-12.2(a)1.6(t)-4.4(h)-2.2(s\). )]TJ
+-1.5 -1.15 TD
+-0.0038 Tc
+0 Tw
+(e\))Tj
+/TT6 1 Tf
+0.78 0 TD
+0 Tc
+( )Tj
+/TT4 1 Tf
+0.72 0 TD
+0.0013 Tc
+0.3287 Tw
+[(Roa)5.1(d)1.3( se)5.1(g)11.3(m)-0.9(e)5.1(n)1.3(ts tha)5.1(t)-0.9( c)5.1(o)-8.7(nne)5.1(c)5.1(t)-0.9( two ne)5.1(ig)11.3(h)-8.7(bor)4.3(in)-8.7(g)11.3( c)5.1(itie)5.1(s a)5.1(r)4.3(e)5.1( e)5.1(ither)4.3( str)4.3(a)5.1(i)-10.9(g)11.3(h)-8.7(t)-0.9( or)4.3( )]TJ
+0 -1.15 TD
+-0.0023 Tc
+0.0223 Tw
+[(ci)-4.5(rcul)-4.5(ar. Th)-12.3(e ci)-4.5(rcul)-14.5(ar roa)-8.5(d)-2.3( seg)7.7(m)-4.5(ent)-4.5(s)-3.1( a)-8.5(r)0.7(e a)-8.5(c)1.5(t)-4.5(u)-2.3(al)-4.5(l)-14.5(y)17.7( p)-12.3(a)1.5(rt)-4.5( of a ci)-4.5(r)-9.3(c)1.5(l)-4.5(e)1.5( whose c)-8.5(e)1.5(nt)-4.5(er i)-4.5(s)-13.1( )]TJ
+/TT2 1 Tf
+T*
+0 Tc
+0 Tw
+(d)Tj
+/TT4 1 Tf
+0.56 0 TD
+0.0016 Tc
+0.1184 Tw
+[( mile)5.4(s a)5.4(w)3.8(ay)21.6( f)4.6(r)4.6(o)1.6(m both)-8.4( the)5.4( c)5.4(itie)5.4(s. He)5.4(r)4.6(e)5.5( )]TJ
+/TT2 1 Tf
+16.46 0 TD
+-0.0003 Tc
+0.1203 Tw
+[(d>=0.5)-10.3(*\(linear distance of)-7.3( the)13.5( tw)-8.1(o)9.7( )]TJ
+-17.02 -1.15 TD
+-0.0028 Tc
+0 Tw
+[(ci)-5(ti)-5(es\))]TJ
+/TT4 1 Tf
+2.49 0 TD
+0.0013 Tc
+0.1087 Tw
+[(. )-10(I)14.3(n)1.3( T)-7.9(a)5.1(lisma)5.1(n ma)5.1(ximum )]TJ
+/TT2 1 Tf
+10.31 0 TD
+0 Tc
+0.1 Tw
+(50 %)Tj
+/TT4 1 Tf
+2.36 0 TD
+-0.002 Tc
+0.112 Tw
+[( roads are c)-8.2(i)-4.2(rcul)-4.2(ar and )-10(ci)-4.2(rcul)-4.2(a)-8.1(r)1( road)-12(s ar)-9(e)-8.2( )]TJ
+-15.16 -1.15 TD
+-0.0006 Tc
+0.0006 Tw
+[(never mor)-7.6(e)3.2( than strai)-12.8(g)9.4(ht )-10(roads in number. )]TJ
+-1.5 -1.15 TD
+-0.003 Tc
+0 Tw
+(f\))Tj
+/TT6 1 Tf
+0.67 0 TD
+0 Tc
+( )Tj
+/TT4 1 Tf
+0.83 0 TD
+0.0011 Tc
+-0.0011 Tw
+[(You c)4.9(a)4.9(n)1.1( a)4.9(ssume)4.9( th)-8.9(a)4.9(t)-1.1( no two r)4.1(o)1.1(a)4.9(d)1.1( seg)11.1(m)-1.1(e)4.9(n)1.1(ts inte)4.9(r)4.1(s)-9.7(ec)4.9(t. )]TJ
+-4 -2.31 TD
+0.0009 Tc
+0.2091 Tw
+[(The)4.7( Communic)4.7(a)4.7(tion Mi)8.7(niste)4.7(r)3.9( of)3.9( Ta)4.7(lisma)4.7(n wa)4.7(nt)-11.3(s to build a)4.7(s)0.1( ma)4.7(n)-9.1(y)30.9( )-10(r)3.9(o)0.9(ad se)4.7(g)10.9(m)-1.3(e)4.7(n)0.9(ts a)4.7(s)-9.9( )]TJ
+0 -1.15 TD
+-0.0006 Tc
+0.0306 Tw
+[(possible \(prese)-6.8(rving the )-10(constraints above)-6.8(\) and)-10.6( the Natur)-7.6(e)3.2( Minister w)-8.4(a)3.2(nts )-10(the roads to b)-10.6(e)-6.8( )]TJ
+T*
+-0.0005 Tc
+[(as long)9.5( as possible as he plants trees on both sides)8.7( of the roads. F)5.6(r)2.5(om a g)9.5(i)-2.7(v)-10.5(e)3.3(n description )]TJ
+T*
+-0.0003 Tc
+0.1103 Tw
+[(of Talisman )-10(y)19.7(o)-0.3(u)-10.3(í)2.7(ll have)-6.5( to find the number of r)-7.3(o)-0.3(ad se)-6.5(g)9.7(m)-2.5(ents in Talisman and also the)-6.5( )]TJ
+T*
+0.0012 Tc
+-0.0012 Tw
+[(tota)5(l le)5(ng)11.2(th of)4.2( r)4.2(o)-8.8(a)5(d)1.2( seg)11.2(m)-11(e)5(n)1.2(ts. )]TJ
+/TT2 1 Tf
+18 0 0 18 90.0406 226.44 Tm
+-0.0027 Tc
+0 Tw
+[(Inp)-6.5(u)0.1(t)]TJ
+/TT4 1 Tf
+12 0 0 12 133.0006 226.44 Tm
+0 Tc
+( )Tj
+-3.58 -2.4 TD
+-0.0006 Tc
+0.0606 Tw
+[(The input file contains several lines of input. Eac)-6.8(h)-0.6( line contains three integ)9.4(e)-6.8(rs )]TJ
+/TT2 1 Tf
+32.13 0 TD
+0.003 Tc
+0 Tw
+[(dim)16( )]TJ
+/TT4 1 Tf
+1.97 0 TD
+-0.0019 Tc
+[(\(Th)-11.9(e)-8( )]TJ
+-34.1 -1.15 TD
+-0.0005 Tc
+0.2705 Tw
+[(Dimension of the )10(W)-6.7(o)-0.5(rld\), )]TJ
+/TT2 1 Tf
+11.65 0 TD
+0.0019 Tc
+0 Tw
+[(dist)4.9( )]TJ
+/TT4 1 Tf
+2.08 0 TD
+0.0011 Tc
+0.2689 Tw
+[(\()4.1(T)1.9(he)4.9( line)4.9(a)4.9(r)4.1( dis)10.3(t)-1.1(a)4.9(n)1.1(c)4.9(e)5( be)4.9(twee)4.9(n a)4.9(n)-18.9(y)31.1( two)-8.9( c)4.9(itie)4.9(s\))4.1( a)5(nd )]TJ
+/TT2 1 Tf
+21.72 0 TD
+0 Tc
+0 Tw
+(d)Tj
+/TT8 1 Tf
+0.55 0 TD
+( )Tj
+/TT4 1 Tf
+-36 -1.15 TD
+-0.0005 Tc
+0.0205 Tw
+[(\(Ex)-10.5(p)-0.5(lained in the proble)-6.7(m)-2.7( statement above)-6.7(\).  Not)-12.7(e)3.4( that )]TJ
+/TT2 1 Tf
+22.41 0 TD
+0.0038 Tc
+0 Tw
+[(di)-8.4(m)]TJ
+/TT4 1 Tf
+1.67 0 TD
+0.0017 Tc
+0.0183 Tw
+[( is a positive)5.6( inte)5.5(ge)5.5(r)4.7( le)5.5(ss th)-8.3(a)5.5(n)-8.3( )]TJ
+/TT2 1 Tf
+-24.08 -1.15 TD
+0 Tc
+0 Tw
+(10000)Tj
+/TT4 1 Tf
+2.5 0 TD
+(, )Tj
+/TT2 1 Tf
+0.5 0 TD
+0.0001 Tc
+(\(0<dist<=10000\))Tj
+/TT4 1 Tf
+6.93 0 TD
+-0.0008 Tc
+0.0008 Tw
+( and \()Tj
+/TT2 1 Tf
+2.27 0 TD
+0.0004 Tc
+-0.0004 Tw
+(dist/2.0\) <=d<10000.)Tj
+/TT4 1 Tf
+8.69 0 TD
+0 Tc
+0 Tw
+(  )Tj
+/TT2 1 Tf
+18 0 0 18 90.0406 122.5201 Tm
+-0.0015 Tc
+(Output)Tj
+/TT4 1 Tf
+12 0 0 12 145.9606 122.5201 Tm
+0 Tc
+( )Tj
+-4.66 -2.4 TD
+-0.0005 Tc
+0.1005 Tw
+[(F)5.7(o)-0.5(r ea)-6.7(ch line of input )-10(y)19.5(ou should g)9.5(i)-2.7(ve one line of output which contains two numbers.)9.5( )]TJ
+0 -1.15 TD
+-0.0007 Tc
+0.2107 Tw
+[(The first round)-10.7( number)-7.7( denotes the numb)-10.7(e)3.1(r of)-7.7( road se)-6.9(g)9.3(m)-12.9(ents and the)-6.9( second roun)-10.7(d)-10.7( )]TJ
+ET
+endstream
+endobj
+3 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+/TT6 6 0 R
+/TT8 7 0 R
+>>
+/ExtGState <<
+/GS1 8 0 R
+>>
+/ColorSpace <<
+/Cs6 9 0 R
+>>
+>>
+endobj
+9 0 obj
+[/ICCBased 11 0 R]
+endobj
+11 0 obj
+<<
+/N 3
+/Alternate /DeviceRGB
+/Length 1747
+/Filter [/ASCII85Decode /FlateDecode]
+>>
+stream
+8;Z\5BiL9d'MX0G[4\.*'oOrXBV@!n&M\0'.&$uN'Gm^T$:tf/5Y?Wch%UGm!YQ)3
+,06dGJ-&%M!X=`TG*"Qm6&`)QDug-$CiP2Wf'$hoWPA,fbaH"[k0AC!k0"VV8eq%;
+BFLN8KlmN.1m6U0DIJ8d@5.m41'Qk-A-6&,Q3N_K%;,,Y154YngX9t$>YFYWoK^))
+P$ul$DMIhfpA4f_!;4!qUOepGkaC[K$knTs/#Tto4<%Zd^a;WV=K31*!-A!a'jhJ.
+0!^fXoGl64JmP=oLYh-c;+\g-P?`\?cIg4Z(hZ>1F=,u5HmhsW3sB9Y6!4+U4k"q9
+"0;`HZ$`s*!+#YE;4&+7$G.MY<d[pG:to#f4k-nF=;TI_TTFtnrW.bd6]d@ROb-mE
+>Ro8HWUZ[J*&Jjr69n/4@H6F-Zh<m2EB?L5QXbNCck35S5VG*Jg3Eb$&+C8S\.:@f
+(sF!*(uEA>0ZFK"IN/n_oQ!cf&&#ISD"$j,:8Kcu;14]%L?eUTKFbJ#eG)k0qiC_b
+B:)TtX?cDHLqXS^6Z&50+)9!Vd/OXV65:SWj+OW3:g5#L4eQ_(DERaNF2_f$4G0c)
+^qW^B:BNWA%,`5gR:8&R!4)]LGG20i=@32^qG6o:rXGVW)H3MJC4.pUqStC(cC0aC
+raa=0H1O7+TX4,Dh*mqh`\%#G9>.1F^="t8qO;C4Q[`YT_K_p!.aurC2/CgGhsgTa
+9kNNP=DYG$ZIN]Z[E\Cc5MGP\A[d$4hL4<%p,i9ObCP:@c3,?5jcHOtYD81KH[(^'
+o:f'pNugCNF5lpYrqu*NPG`e(qjm7A)aL/S!e\c%1XCh]#Rt9tZT/gH+tlARa2H!:
+?bV\baQ4]o?bMbgRW^hWK.ddJMR'O+Li[V.DWV`L(>UGm.4m'RW3!#5>uOs/hp<cc
+C6m^jBt`8E:Nlb(HUh^M\%JWJn):%^:\k<f4rYI[I]doM1-.<WU&<jK4nfIS$%=;!
+;E6a8WnR?!/g(#+hu8`d'-lrlG^j7+mFUeQ^iFrQh^^Kmo2k5maEs``EtEQVU+rPU
+T;qH>ndY+04MC3*[bi:DPCDn3[[]q_TB5P'hfO%tg$!r8!H%qg[$<HXD1YNYQSXR;
+/B1d7+g=(B71_OOH-YMVFg,S!'N:4[_3CJIGb,kK*HE@"rPJ79_GFJc4`iCE5ZeoI
+KG>Lk4kr,(`jT<63-lPkBC)AY`Pr2TLt"uO86Y*G9>jJG;4F:XU)-6SU.8\J@[^f9
+`!YOj`NeD[j,_3(?/Bq=j9kkn04A8j,@N^^,>lJ:`@^)Ok4+UVPCeuQakk-&<unKq
+>dLpe8hj"r9q@p!8405!VtF@\G[6JMSR.D/cUd"Jj[T[?#j=U^cpu`\l'a%73J_FV
+[Ug1aYKI^:=FMJl]L3a%1G:+8GC$E!XtoH6hU#!fc%l+Mo%ON^'XSS.(H)up/?6Eq
+IB0a-ZFI-WX<auk6`IS3D-9n"^-&a=ZpIm*W_u[$W_-*)=tRD#qR3>79hffuqV'`9
+NHP'i(A5WU<Xfe'3uVl\HR-j1N_Qfk@^B<c6oo;Mkag+ePH@bfl$'CV=`(`eEVBn0
+V92JC3VP,n=$Ej8d*b[&n*?WgN-4u>c0Sn^0CIuENTK.@bFY0ZrOnbMjM'#srf=E.
+76]:Pb^Zq_8S,YbJ*2@6JF[F41S&08K-l3S6af@!_sYF;cfkcW"nr3"7ENWbOm^V,
+@p3C/EJ*fJ$1!FKV7TY$EWGDf&2F~>
+endstream
+endobj
+13 0 obj
+<<
+/Length 1982
+>>
+stream
+BT
+/TT4 1 Tf
+12 0 0 12 90.0406 709.2 Tm
+/Cs6 cs 0 0 0 scn
+/GS1 gs
+-0.0005 Tc
+0.0505 Tw
+[(number denotes th)-10.5(e total)-12.7( leng)9.5(th o)-10.5(f)2.5( the )-10(road s)-11.3(e)-6.7(g)9.5(m)-2.7(ents \(The total )-10(actual len)-10.5(g)9.5(th round)-10.5(ed to)-10.5( )]TJ
+0 -1.15 TD
+0.001 Tc
+-0.001 Tw
+[(the)4.8( ne)4.8(a)4.8(r)-6(e)4.8(s)0.2(t inte)4.8(ge)4.8(r)4(\))4(.)1(   )]TJ
+/TT2 1 Tf
+18 0 0 18 90.0406 661.6801 Tm
+-0.0013 Tc
+0.0046 Tw
+[(Sample)-4.1( Input)]TJ
+/TT4 1 Tf
+12 0 0 12 194.4406 661.6801 Tm
+0 Tc
+0 Tw
+( )Tj
+/F1 1 Tf
+-8.7 -1.13 TD
+0.6 Tc
+[(21)600(01)600(0)]TJ
+0 -1 TD
+(356)Tj
+/TT4 1 Tf
+0 -1.1 TD
+0 Tc
+( )Tj
+/TT2 1 Tf
+18 0 0 18 90.0406 603.24 Tm
+-0.0008 Tc
+0.0041 Tw
+[(Sample)-3.6( Output)]TJ
+/TT4 1 Tf
+12 0 0 12 207.5206 603.24 Tm
+0 Tc
+0 Tw
+( )Tj
+/F1 1 Tf
+-9.79 -1.14 TD
+0.6 Tc
+[(22)600(0)]TJ
+0 -1 TD
+[(42)600(0)]TJ
+/TT4 1 Tf
+2.4 0 TD
+0 Tc
+( )Tj
+ET
+0.502 0.502 0.502 scn
+1 i 
+90.041 565.56 432 -1.56 re
+f*
+90.041 565.56 0.24 -0.24 re
+f
+90.041 565.56 0.24 -0.24 re
+f
+90.281 565.56 431.52 -0.24 re
+f
+0.831 0.816 0.784 scn
+521.801 565.56 0.24 -0.24 re
+f
+0.502 0.502 0.502 scn
+521.801 565.56 0.24 -0.24 re
+f
+90.041 565.32 0.24 -1.08 re
+f
+0.831 0.816 0.784 scn
+521.801 565.32 0.24 -1.08 re
+f
+0.502 0.502 0.502 scn
+90.041 564.24 0.24 -0.24 re
+f
+0.831 0.816 0.784 scn
+90.041 564.24 0.24 -0.24 re
+f
+90.281 564.24 431.52 -0.24 re
+f
+521.801 564.24 0.24 -0.24 re
+f
+521.801 564.24 0.24 -0.24 re
+f
+BT
+12 0 0 12 522.0405 561.48 Tm
+0 0 0 scn
+( )Tj
+/TT2 1 Tf
+-36 -0.93 TD
+-0.0003 Tc
+0.0003 Tw
+[(\(World F)10.5(i)-2.5(nals War)-6.5(m)12.7(-)2.7(u)-14.1(p)-4.1( Contest, Proble)-6.5(m)12.7( se)-6.5(tt)-7.3(er: Shahriar Manzoor)-6.5(\))-7.3( )]TJ
+/TT4 1 Tf
+0 -1.13 TD
+0 Tc
+0 Tw
+( )Tj
+10.73 -2.15 TD
+-0.0011 Tc
+0.0011 Tw
+[(")7.1(M)-1.9(ak)-11.1(e new f)-8.1(r)1.9(iends but k)-11.1(eep the old, )]TJ
+-0.3 -1.15 TD
+-0.0022 Tc
+0.0022 Tw
+[(W)-8.4(h)-2.2(en t)-4.4(h)-2.2(ese are si)-4.4(l)-4.4(v)-2.2(e)-8.4(r)0.8( t)-4.4(hose are )-10(g)7.8(o)-2.2(l)-4.4(d)-2.2(.)-12.2(")6( )]TJ
+ET
+endstream
+endobj
+14 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/F1 15 0 R
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 8 0 R
+>>
+/ColorSpace <<
+/Cs6 9 0 R
+>>
+>>
+endobj
+8 0 obj
+<<
+/Type /ExtGState
+/SA false
+/SM 0.02
+/TR2 /Default
+>>
+endobj
+16 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 891
+/CapHeight 0
+/Descent -216
+/Flags 34
+/FontBBox [-558 -307 2034 1026]
+/FontName /TimesNewRomanPS-BoldMT
+/ItalicAngle 0
+/StemV 133
+>>
+endobj
+17 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 891
+/CapHeight 0
+/Descent -216
+/Flags 34
+/FontBBox [-568 -307 2028 1007]
+/FontName /TimesNewRomanPSMT
+/ItalicAngle 0
+/StemV 0
+>>
+endobj
+18 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 905
+/CapHeight 0
+/Descent -211
+/Flags 32
+/FontBBox [-665 -325 2028 1006]
+/FontName /ArialMT
+/ItalicAngle 0
+/StemV 0
+>>
+endobj
+19 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 891
+/CapHeight 0
+/Descent -216
+/Flags 98
+/FontBBox [-498 -307 1120 1023]
+/FontName /TimesNewRomanPS-ItalicMT
+/ItalicAngle -15
+/StemV 0
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 122
+/Widths [250 0 0 0 0 1000 0 0 333 333 500 570 250 333 250 278 
+500 500 500 0 0 500 0 0 0 0 333 0 570 570 570 0 
+0 722 667 722 722 667 611 0 0 389 0 0 667 944 0 778 
+611 0 0 556 667 0 0 1000 0 0 0 0 0 0 0 0 
+0 500 556 444 556 444 333 0 556 278 0 0 278 833 556 500 
+556 0 444 389 333 556 0 722 0 500 444 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /TimesNewRomanPS-BoldMT
+/FontDescriptor 16 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 146
+/Widths [250 0 408 0 0 0 0 0 333 333 0 0 250 333 250 0 
+0 0 500 500 0 500 0 0 0 0 0 0 0 0 0 0 
+0 722 667 667 722 611 556 0 722 333 0 0 0 889 722 0 
+0 0 667 0 611 0 0 944 0 722 0 0 0 0 0 0 
+0 444 500 444 500 444 333 500 500 278 0 500 278 778 500 500 
+500 500 333 389 278 500 500 722 500 500 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 333 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /TimesNewRomanPSMT
+/FontDescriptor 17 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 32
+/Widths [278 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /ArialMT
+/FontDescriptor 18 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 32
+/Widths [250 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /TimesNewRomanPS-ItalicMT
+/FontDescriptor 19 0 R
+>>
+endobj
+1 0 obj
+<<
+/Type /Page
+/Parent 10 0 R
+/Resources 3 0 R
+/Contents 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Type /Page
+/Parent 10 0 R
+/Resources 14 0 R
+/Contents 13 0 R
+>>
+endobj
+20 0 obj
+<<
+/S /D
+>>
+endobj
+21 0 obj
+<<
+/Nums [0 20 0 R ]
+>>
+endobj
+10 0 obj
+<<
+/Type /Pages
+/Kids [1 0 R 12 0 R]
+/Count 2
+/MediaBox [0 0 612 792]
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 10 0 R
+/PageLabels 21 0 R
+>>
+endobj
+23 0 obj
+<<
+/CreationDate (D:20020301150059)
+/Producer (Acrobat Distiller 4.0 for Windows)
+>>
+endobj
+xref
+0 24
+0000000000 65535 f 
+0000015362 00000 n 
+0000000016 00000 n 
+0000008923 00000 n 
+0000014046 00000 n 
+0000014514 00000 n 
+0000015019 00000 n 
+0000015182 00000 n 
+0000013161 00000 n 
+0000009080 00000 n 
+0000015595 00000 n 
+0000009114 00000 n 
+0000015443 00000 n 
+0000010979 00000 n 
+0000013014 00000 n 
+0000013950 00000 n 
+0000013232 00000 n 
+0000013417 00000 n 
+0000013595 00000 n 
+0000013763 00000 n 
+0000015527 00000 n 
+0000015555 00000 n 
+0000015684 00000 n 
+0000015754 00000 n 
+trailer
+<<
+/Size 24
+/Root 22 0 R
+/Info 23 0 R
+/ID [<e34129f2ef7d33fc5d86240c3d4ab505><e34129f2ef7d33fc5d86240c3d4ab505>]
+>>
+startxref
+15855
+%%EOF

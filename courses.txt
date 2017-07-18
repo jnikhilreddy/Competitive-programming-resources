@@ -1,0 +1,19 @@
+Courses for competitive programming
+
+1. algo.is is a competitive programming course taught by Bjarki Ágúst Guðmundsson also known as SuprDewd (via Codeforces) and Tómas Ken Magnússon. The used programming language is C++. The website includes an online judge. The material is also available on GitHub.
+
+2. Brabble is an introductory course on competitive programming taught by Paul Grigoras. The used language is Java.
+
+3. CS 97SI is an introductory course on competitive programming taught by Jaehyun Park.
+http://web.stanford.edu/class/cs97si/
+
+4. Competitive programming taught by Steven Halim. The first edition of his book can be downloaded for free.
+
+5. CSE 232: Programming Skills Workshop taught by Brett Olsen.
+https://acm.wustl.edu/cse232/
+
+6. CSE 390 B, ACM Programming Contest Prep by Marty Stepp.
+http://www.martystepp.com/acm/
+
+7. The Art of Programming Contest is a book (pdf here) written by Ahmed Shamsul Arefin.
+http://www.ahmedshamsularefin.id.au/acm-icpc/tutorials/30-my-articles

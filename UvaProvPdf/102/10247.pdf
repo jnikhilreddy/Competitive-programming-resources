@@ -1,0 +1,557 @@
+%PDF-1.3
+%‚„œ”
+2 0 obj
+<<
+/Length 6163
+>>
+stream
+BT
+/TT2 1 Tf
+18 0 0 18 264.7606 703.32 Tm
+/Cs6 cs 0 0 0 scn
+/GS1 gs
+0.0012 Tc
+0.0021 Tw
+[(Prob)4(lem)7.5( B )]TJ
+24 0 0 24 177.4006 677.04 Tm
+0.0008 Tc
+-0.0008 Tw
+[(Complete T)7.8(ree Labelin)7(g! )]TJ
+12 0 0 12 440.6806 677.04 Tm
+0 Tc
+0 Tw
+( )Tj
+-15.56 -1.34 TD
+0.0031 Tc
+[(Input)6.1(:)6.1( )]TJ
+/TT4 1 Tf
+2.98 0 TD
+-0.0002 Tc
+0.0002 Tw
+(standard input )Tj
+/TT2 1 Tf
+-3.59 -1.15 TD
+-0.003 Tc
+0 Tw
+[(O)-5.2(u)-6.8(tp)-6.8(u)-6.8(t: )]TJ
+/TT4 1 Tf
+3.7 0 TD
+-0.0002 Tc
+0.0002 Tw
+(standard output )Tj
+/TT2 1 Tf
+-3.68 -1.15 TD
+0.0022 Tc
+-0.0022 Tw
+[(Tim)15.2(e)6( Li)-10(m)15.2(i)0(t)5.2(:)]TJ
+/TT4 1 Tf
+5.18 0 TD
+-0.0008 Tc
+0.0008 Tw
+[( 45 s)-11.6(econds)-11.6( )]TJ
+/TT2 1 Tf
+-5.09 -1.15 TD
+-0.0023 Tc
+0.0023 Tw
+[(Me)-8.5(m)10.7(o)-2.3(ry L)-5.3(i)-14.5(m)10.7(i)-4.5(t)-9.3(:)0.7( )]TJ
+/TT4 1 Tf
+6.88 0 TD
+0.0003 Tc
+-0.0003 Tw
+[(32 MB)7.3( )]TJ
+-20.04 -1.15 TD
+0 Tc
+0 Tw
+( )Tj
+T*
+0.0008 Tc
+0.0292 Tw
+[(A c)4.6(o)0.8(mple)4.6(te)4.6( )]TJ
+/TT2 1 Tf
+4.94 0 TD
+0 Tc
+0 Tw
+(k)Tj
+/TT4 1 Tf
+0.56 0 TD
+0.0033 Tc
+0.0267 Tw
+[(-)6.3(a)-2.9(r)-13.7(y)23.3( tr)6.3(ee)7.1( is )-10(a)7.1( )]TJ
+/TT2 1 Tf
+5.35 0 TD
+0 Tc
+0 Tw
+(k)Tj
+/TT4 1 Tf
+0.56 0 TD
+0.0013 Tc
+0.0287 Tw
+[(-)4.3(a)5.1(r)-15.7(y)21.3( tre)5.1(e)5.1( in )-10(whic)5.1(h a)5.1(ll )-10(le)5.1(a)5.1(v)1.3(e)5.1(s)0.5( ha)5.1(v)-8.7(e)5.1( sa)5.1(m)-10.9(e)5.2( de)5.1(pth and a)5.1(ll inte)5.1(r)4.3(n)1.3(a)5.1(l)-10.9( )]TJ
+-11.41 -1.15 TD
+-0.0016 Tc
+0.1116 Tw
+[(nodes have d)-11.6(e)-7.8(g)8.4(r)-8.6(ee )]TJ
+/TT2 1 Tf
+7.96 0 TD
+0 Tc
+0 Tw
+(k)Tj
+/TT4 1 Tf
+0.56 0 TD
+0.0008 Tc
+0.1092 Tw
+[(. T)-8.4(h)0.8(is )]TJ
+/TT2 1 Tf
+2.76 0 TD
+0 Tc
+0 Tw
+(k)Tj
+/TT4 1 Tf
+0.56 0 TD
+-0.0009 Tc
+0.1109 Tw
+[( is also known as the bran)-10.9(ching fa)-7(ctor of )-10(a)-7.1( tree. )-20(I)22.1(t)-3.1( is v)-10.9(e)2.9(r)-17.9(y)9.1( )]TJ
+-11.84 -1.15 TD
+-0.0012 Tc
+0.1412 Tw
+[(eas)-22(y)28.8( to det)-13.4(e)2.6(rmine the n)-11.2(u)-1.2(mber of nodes of such)-11.2( a tree. Given the depth)-11.2( and branchin)-11.2(g)8.8( )]TJ
+T*
+0.0016 Tc
+0.1184 Tw
+[(f)4.6(a)5.4(c)5.4(t)-0.6(or of)4.6( su)-8.4(c)5.4(h)1.6( a tr)4.6(ee)5.4(, )-20(y)21.6(o)-8.4(u will ha)5.4(ve to de)5.4(ter)4.6(mine in how ma)5.4(n)-18.4(y)21.6( )-10(dif)4.6(f)-5.4(e)5.4(r)4.6(e)5.4(n)1.6(t )-10(wa)-14.6(y)21.6(s)0.8( )-20(y)21.6(ou )-10(c)5.4(a)5.4(n)-8.4( )]TJ
+T*
+-0.0008 Tc
+0.2408 Tw
+[(number the nodes of th)9.2(e tree so that the label)7( of each node is less )10(t)7(h)-0.8(at that of it)7(s )]TJ
+T*
+-0.0006 Tc
+0.0206 Tw
+[(descendants.)-10.6( You should)-10.6( assume th)-10.6(at for)-7.6( numberi)-12.8(ng)9.4( )-10(a tr)-7.6(ee)-6.8( with )]TJ
+/TT2 1 Tf
+25.87 0 TD
+0 Tc
+0 Tw
+(N)Tj
+/TT4 1 Tf
+0.73 0 TD
+-0.0007 Tc
+0.0207 Tw
+[( nodes )-20(y)9.3(ou have)-6.9( the )]TJ
+/TT2 1 Tf
+8.31 0 TD
+-0.0015 Tc
+0 Tw
+[(\(1,)-11.5( )]TJ
+-34.91 -1.15 TD
+-0.0007 Tc
+0.0007 Tw
+(2, 3, N-1, N\))Tj
+/TT4 1 Tf
+5.1 0 TD
+-0.0015 Tc
+0.0015 Tw
+[( l)-3.7(a)2.3(b)-11.5(e)2.3(l)-3.7(s)-2.3( avai)-3.7(l)-13.7(a)2.3(bl)-3.7(e. )]TJ
+-5.1 -1.15 TD
+0 Tc
+0 Tw
+( )Tj
+/TT2 1 Tf
+18 0 0 18 90.0406 475.68 Tm
+-0.0027 Tc
+[(Inp)-6.5(u)0.1(t)]TJ
+12 0 0 12 133.0006 475.68 Tm
+0 Tc
+( )Tj
+/TT4 1 Tf
+-3.58 -1.24 TD
+-0.0002 Tc
+0.0002 Tw
+[(The input file will contai)-12.4(n sever)-7.2(a)3.6(l lines of input. E)-9.4(a)3.7(ch line will cont)-12.4(ain two )-10(integ)9.8(e)-6.4(rs )]TJ
+/TT2 1 Tf
+33.74 0 TD
+0 Tc
+0 Tw
+(k)Tj
+/TT4 1 Tf
+0.56 0 TD
+-0.0013 Tc
+0.0013 Tw
+[( and)-11.3( )]TJ
+/TT2 1 Tf
+-34.3 -1.15 TD
+0 Tc
+0 Tw
+(d)Tj
+/TT4 1 Tf
+0.56 0 TD
+-0.0021 Tc
+0.1321 Tw
+(. Here )Tj
+/TT2 1 Tf
+2.94 0 TD
+0 Tc
+0 Tw
+(k)Tj
+/TT4 1 Tf
+0.56 0 TD
+0.0011 Tc
+0.1289 Tw
+[( is)10.3( the)4.9( br)4.1(a)4.9(n)1.1(c)4.9(h)1.1(ing)11.1( f)4.1(a)-5.1(c)4.9(t)-1.1(or)4.1( of)4.1( the)4.9( c)4.9(o)1.1(mple)4.9(te)4.9( )]TJ
+/TT2 1 Tf
+16.94 0 TD
+-0.0008 Tc
+0 Tw
+(k-ary)Tj
+/TT4 1 Tf
+2.33 0 TD
+-0.0022 Tc
+0.1322 Tw
+[( t)-4.4(r)0.8(ee and )]TJ
+/TT2 1 Tf
+4.07 0 TD
+0 Tc
+0 Tw
+(d)Tj
+/TT4 1 Tf
+0.56 0 TD
+-0.0006 Tc
+0.1306 Tw
+[( is )10(th)9.4(e depth of the )]TJ
+-27.96 -1.15 TD
+0.0018 Tc
+0 Tw
+[(c)5.6(o)1.8(mple)5.6(te)5.6( )]TJ
+/TT2 1 Tf
+3.91 0 TD
+0 Tc
+(k)Tj
+/TT4 1 Tf
+0.56 0 TD
+-0.003 Tc
+0.003 Tw
+[(-ar)-20(y)17( t)-5.2(r)-10(ee \()]TJ
+/TT2 1 Tf
+3.93 0 TD
+0.0011 Tc
+-0.0011 Tw
+[(k>0)-8.9(,)1.1( d>0, k*d<=20)]TJ
+/TT4 1 Tf
+8.03 0 TD
+-0.0015 Tc
+0 Tw
+(\). )Tj
+-16.43 -1.15 TD
+0 Tc
+( )Tj
+/TT2 1 Tf
+18 0 0 18 90.0406 399.72 Tm
+-0.0015 Tc
+(Output)Tj
+12 0 0 12 145.9606 399.72 Tm
+0 Tc
+( )Tj
+/TT4 1 Tf
+-4.66 -1.23 TD
+-0.0007 Tc
+0.1007 Tw
+[(F)5.5(o)-0.7(r ea)-6.9(ch line of input,)9.3( p)9.3(r)2.3(oduce one line of output containing)9.3( a round )10(nu)-10.7(mber, )10(which)-10.7( )10(is )]TJ
+0 -1.15 TD
+-0.0011 Tc
+0.0811 Tw
+[(the number of)-8.1( wa)-17.3(y)18.9(s)-1.9( th)-11.1(e )]TJ
+/TT2 1 Tf
+10.05 0 TD
+0 Tc
+0 Tw
+(k)Tj
+/TT4 1 Tf
+0.56 0 TD
+0.002 Tc
+0.078 Tw
+[(-)5(a)5.8(r)-15(y)22( tr)5(ee)5.8( ca)5.8(n be la)5.8(be)5.8(le)5.8(d)-8(,)2( ma)5.8(inta)5.8(ining)12( the c)5.8(onstr)5(aints de)5.8(sc)5.8(r)5(i)-0.2(be)5.8(d)-8( )]TJ
+-10.61 -1.15 TD
+-0.0011 Tc
+0 Tw
+(above. )Tj
+T*
+0 Tc
+( )Tj
+/TT2 1 Tf
+18 0 0 18 90.0406 323.88 Tm
+-0.001 Tc
+0.0043 Tw
+[(Sample)-3.8( Input:)]TJ
+12 0 0 12 200.4406 323.88 Tm
+0 Tc
+0 Tw
+( )Tj
+/F1 1 Tf
+-9.2 -1.2 TD
+0.6 Tc
+(22)Tj
+0 -1.13 TD
+0 Tc
+[(10)-600(1)]TJ
+/TT2 1 Tf
+18 0 0 18 90.0406 262.3201 Tm
+-0.0005 Tc
+0.0038 Tw
+[(Sample)-3.3( Output:)]TJ
+12 0 0 12 213.5206 262.3201 Tm
+0 Tc
+0 Tw
+( )Tj
+/F1 1 Tf
+-10.29 -1.19 TD
+(80)Tj
+0 -1.13 TD
+(3628800)Tj
+/TT4 1 Tf
+4.2 0 TD
+( )Tj
+ET
+0.502 0.502 0.502 scn
+1 i 
+90.041 221.52 432 -1.56 re
+f*
+90.041 221.52 0.24 -0.24 re
+f
+90.041 221.52 0.24 -0.24 re
+f
+90.281 221.52 431.52 -0.24 re
+f
+0.831 0.816 0.784 scn
+521.801 221.52 0.24 -0.24 re
+f
+0.502 0.502 0.502 scn
+521.801 221.52 0.24 -0.24 re
+f
+90.041 221.28 0.24 -1.08 re
+f
+0.831 0.816 0.784 scn
+521.801 221.28 0.24 -1.08 re
+f
+0.502 0.502 0.502 scn
+90.041 220.2 0.24 -0.24 re
+f
+0.831 0.816 0.784 scn
+90.041 220.2 0.24 -0.24 re
+f
+90.281 220.2 431.52 -0.24 re
+f
+521.801 220.2 0.24 -0.24 re
+f
+521.801 220.2 0.24 -0.24 re
+f
+BT
+12 0 0 12 522.0405 217.44 Tm
+0 0 0 scn
+( )Tj
+/TT2 1 Tf
+-36 -0.93 TD
+0.0022 Tc
+-0.0022 Tw
+[(\()5.2(Wor)6(ld F)13(i)0(nal Warm)15.2(-)5.2(up)-11.6( C)4.4(o)2.2(nt)5.2(e)6(s)1.4(t)5.2(,)2.2( )-10(P)13(r)6(oblem)15.2( Set)5.2(t)5.2(e)-4(r)6(:)5.2( Shahr)6(iar)6( M)6(a)2.2(nz)6(oor)6(\))5.2( )]TJ
+ET
+endstream
+endobj
+3 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/F1 4 0 R
+/TT2 5 0 R
+/TT4 6 0 R
+>>
+/ExtGState <<
+/GS1 7 0 R
+>>
+/ColorSpace <<
+/Cs6 8 0 R
+>>
+>>
+endobj
+8 0 obj
+[/ICCBased 10 0 R]
+endobj
+10 0 obj
+<<
+/N 3
+/Alternate /DeviceRGB
+/Length 1751
+/Filter [/ASCII85Decode /FlateDecode]
+>>
+stream
+8;Z\5BiJ#$(ju\rF`"'M`F=fY>%ig<,2uXW,)W$^EIhl*O9D6aUa2nk9`^A%/.j$N
+Juf:c-m0cY?iX>?#?_-@`$egi(JqogQHkRoUSg8QrmpP/3A^DVF6A!rk.NPVU'UWi
+'Um4p`9;b,8t"FKDIJ8B(c9O#8A[DJg;$amWJ8VbAg?T^8q]aP3UX;^gBm$UgcaGT
+[mDp'9W_pRn7o**+#6[=gGoV^H%V][JO7i%GbAf?1X%WUAcce=XGJ*I&ofV'a&VVO
+6";Fs&qcbZH<\`h<;=hP'JqT('R>Roe&N@E)B*&/n/b=-XIV;,9Q24bXk[nHhPb'J
+cu=O.!%s#,;@gPN!A4l6`'@`IV7m[G;*WR=<LFB*m/bc=p#ARGr02\]+n$i?/%pa)
+Y71sHC.VD":eM-6Sj:.A9:KMQk_-A:oPet::3`+BJ#CZU.JuFa=J!Za!iuX23X;/[
+OaIf(:&tdLA0)SWne?NmP^M]VL^G5ME<4_KiCBt9Bgecl-lWRooiXmNe;dPf6Z)N]
+qT#+6:'RprW@q*5Mj8[g/Q(IoD<W#9s5BTRi'V?4s"tm5lN+'poF9')VS7Dc&;>jc
+Y[%A+k:?0R+=E`ar.@+;W8\n,-GXNEjAcblWM*]!Pcs*(0FFqZ5#"E9UZjRHcC-oZ
+@uStdF6CeTnEE:,7A&fqrd5#qknd^l/mJ=?T)R@!Hu#rqV;Wo!e])Aues`aG^L?0"
+ml#)=1]Q<@X6$eW<]dC"G4,4CG5!&i^&.LF!;ga)cqckJ52tdZ_\8Q$]"%`[m'rOs
+#Otkk'%uTha]%&oJ,B2*5Q<ccf#QD2SH&Bb$C)AD'HBHS&:-&^S.WSJ?&FTP*$#\3
+(S>[.C17gFPFQ[\H>6X[NJpO`O.R`>cFGCJc-*k%:fp\E];2g8]V;^3]&lb)?%#(M
+PGl#\I(-NN?Mf/mK81J<?/7ZlhS/tZO.SNT(ju%)BR&Tlm,dH`pr'!+KE(]$57BPs
+&@l%023KKDqn=^*r4h.gPu0/5hO!1"Z.7EOI:!%l&+J(sAS,KPC;*Ae?b(]2&9m91
+ctAE1XnFLA$2#2,4lDgi\(L/.?cT]ok>M6@pj;irTAOTO-9s`025#]0R_kdm;Xr6D
+RN[YV)\9jj<WoN3@Ksr,SV(]E9L>K<)K^27kecHilqjh2e"IcuG@'?c@Df$P6fEg<
+b8J<YR"uUl?4dgI%9('jA^OZ@QWu.#7@H`D7Hm3;U0_*E?`oIH&tKrI3//2))XA<r
+'"9HQ+29q0Oe@hU,,+nVr[XgH9s8RM(F@KB-^*8K,j[\\@a8-e-WqfW,R'auQ-t$H
+d'_Tn(=r_h#,uTV$dr_Q8@hlKhi/j>6lFPnKpeg+WSD(?.,J2MQ&jpOo*;R+Z6TJV
+6!a2Em)#8%3P:h3DC,[V$6sWTkD&'BaRdT=kF^$A^.#^-W8M>T8)`FDeft!c`o>gn
+27K]+Q^([='U>,Pk*Kp7':,gTc`St(aJq(rjB&I_i`31]k1,jKnF*Hl,H+mLRo?f$
+0!B_FI6iKS6V4%Q@qF,lVE3*g;+pMSAk<BE74LJR*kZjZmTAeC[V9U.H^K/=G+J@%
+qtg'9,US]0#8RiM*nibnmD*l:GEP#-]DT6QG;FQ2oPgTq;IQb?Df+CJ^92oos4ARr
+a'+P!T'/>r52Ge:C;>:kCX@-!r[dQLp@G('j.X=ugYqi<[ump3<111RrR1=Ll0*]G
+T!=L>RcDTurJ@%9lcD&qRp>se!"/3*C]~>
+endstream
+endobj
+7 0 obj
+<<
+/Type /ExtGState
+/SA false
+/SM 0.02
+/TR2 /Default
+>>
+endobj
+11 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 891
+/CapHeight 0
+/Descent -216
+/Flags 34
+/FontBBox [-558 -307 2034 1026]
+/FontName /TimesNewRomanPS-BoldMT
+/ItalicAngle 0
+/StemV 133
+>>
+endobj
+12 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 891
+/CapHeight 0
+/Descent -216
+/Flags 34
+/FontBBox [-568 -307 2028 1007]
+/FontName /TimesNewRomanPSMT
+/ItalicAngle 0
+/StemV 0
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 122
+/Widths [250 333 0 0 0 0 0 0 333 333 500 0 250 333 0 0 
+500 500 500 500 0 0 0 0 0 0 333 0 570 570 570 0 
+0 0 667 722 0 0 611 0 0 389 0 0 667 944 722 778 
+611 0 0 556 667 0 0 1000 0 0 0 0 0 0 0 0 
+0 500 556 0 556 444 0 500 556 278 0 556 278 833 556 500 
+556 0 444 389 333 556 0 0 0 500 444 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /TimesNewRomanPS-BoldMT
+/FontDescriptor 11 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 121
+/Widths [250 0 0 0 0 0 0 0 333 333 0 0 250 333 250 0 
+0 0 500 500 500 500 0 0 0 0 0 0 0 0 0 0 
+0 722 667 0 0 611 556 722 722 333 0 0 0 889 0 0 
+0 0 0 0 611 0 0 0 0 722 0 0 0 0 0 0 
+0 444 500 444 500 444 333 500 500 278 0 500 278 778 500 500 
+500 0 333 389 278 500 500 722 0 500 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /TimesNewRomanPSMT
+/FontDescriptor 12 0 R
+>>
+endobj
+1 0 obj
+<<
+/Type /Page
+/Parent 9 0 R
+/Resources 3 0 R
+/Contents 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/S /D
+>>
+endobj
+14 0 obj
+<<
+/Nums [0 13 0 R ]
+>>
+endobj
+9 0 obj
+<<
+/Type /Pages
+/Kids [1 0 R]
+/Count 1
+/MediaBox [0 0 612 792]
+>>
+endobj
+15 0 obj
+<<
+/Type /Catalog
+/Pages 9 0 R
+/PageLabels 14 0 R
+>>
+endobj
+16 0 obj
+<<
+/CreationDate (D:20020311130450)
+/Producer (Acrobat Distiller 4.0 for Windows)
+>>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000009702 00000 n 
+0000000016 00000 n 
+0000006231 00000 n 
+0000008713 00000 n 
+0000008808 00000 n 
+0000009263 00000 n 
+0000008279 00000 n 
+0000006376 00000 n 
+0000009850 00000 n 
+0000006410 00000 n 
+0000008350 00000 n 
+0000008535 00000 n 
+0000009782 00000 n 
+0000009810 00000 n 
+0000009931 00000 n 
+0000010000 00000 n 
+trailer
+<<
+/Size 17
+/Root 15 0 R
+/Info 16 0 R
+/ID [<c9621081192eb2a30f8e913a0c3cc383><c9621081192eb2a30f8e913a0c3cc383>]
+>>
+startxref
+10101
+%%EOF

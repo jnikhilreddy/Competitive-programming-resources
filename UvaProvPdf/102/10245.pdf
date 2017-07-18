@@ -1,0 +1,576 @@
+%PDF-1.3
+%‚„œ”
+2 0 obj
+<<
+/Length 5485
+>>
+stream
+BT
+/TT2 1 Tf
+18 0 0 18 266.2006 703.32 Tm
+/Cs6 cs 0 0 0 scn
+/GS1 gs
+0.0013 Tc
+0.002 Tw
+[(Problem)7.6( J)]TJ
+/TT4 1 Tf
+12 0 0 12 345.7606 703.32 Tm
+0 Tc
+0 Tw
+( )Tj
+/TT2 1 Tf
+24 0 0 24 174.2806 677.04 Tm
+0.0003 Tc
+-0.0003 Tw
+(The Closest Pair Problem)Tj
+/TT4 1 Tf
+12 0 0 12 437.6806 677.04 Tm
+0 Tc
+0 Tw
+( )Tj
+/TT2 1 Tf
+-15.31 -1.34 TD
+0.0032 Tc
+[(Input)6.2(:)]TJ
+/TT4 1 Tf
+2.73 0 TD
+-0.0002 Tc
+0.0002 Tw
+( standard input )Tj
+/TT2 1 Tf
+-3.34 -1.15 TD
+0.0035 Tc
+0 Tw
+[(Out)6.5(put)6.5(:)]TJ
+/TT4 1 Tf
+3.45 0 TD
+-0.0002 Tc
+0.0002 Tw
+( standard output )Tj
+/TT2 1 Tf
+-3.18 -1.15 TD
+0.0022 Tc
+-0.0022 Tw
+[(Tim)15.2(e)6( Li)-10(m)15.2(i)0(t)5.2(:)]TJ
+/TT4 1 Tf
+5.18 0 TD
+-0.0008 Tc
+0.0008 Tw
+[( 8 s)-11.6(econds )]TJ
+/TT2 1 Tf
+-5.34 -1.15 TD
+-0.0023 Tc
+0.0023 Tw
+[(Me)-8.5(m)10.7(o)-2.3(ry L)-5.3(i)-14.5(m)10.7(i)-4.5(t)-9.3(:)]TJ
+/TT4 1 Tf
+6.63 0 TD
+0.0003 Tc
+-0.0003 Tw
+[( 32 MB)7.3( )]TJ
+-19.79 -1.15 TD
+0 Tc
+0 Tw
+( )Tj
+T*
+0.0008 Tc
+0.1792 Tw
+[(Give)4.6(n a)4.6( se)4.6(t of)3.8( points )10(in)10.8( a)4.6( two dime)4.6(nsiona)4.6(l spa)14.6(c)4.6(e)4.6(,)0.8( )-10(y)20.8(ou will ha)4.6(ve)4.6( to f)3.8(i)-1.4(nd the)4.6( dista)4.7(n)0.8(c)4.6(e)4.6( )]TJ
+T*
+-0.0004 Tc
+0.0004 Tw
+[(between the )-10(closest two )-10(points. )]TJ
+T*
+0 Tc
+0 Tw
+( )Tj
+/TT2 1 Tf
+18 0 0 18 90.0406 544.6801 Tm
+-0.0012 Tc
+[(Inp)-5(u)1.6(t )]TJ
+/TT4 1 Tf
+6.96 0 0 6.96 90.0406 534.2401 Tm
+0 Tc
+( )Tj
+12 0 0 12 90.0406 521.76 Tm
+-0.0003 Tc
+0.1203 Tw
+[(The input file contains s)-11.1(e)3.5(veral s)-11.1(e)3.5(ts of input. Eac)-6.5(h)-0.3( set of input starts with an integer )]TJ
+/TT2 1 Tf
+35.27 0 TD
+0.0078 Tc
+0 Tw
+(N )Tj
+-35.27 -1.15 TD
+-0.0003 Tc
+(\(0<=N<=10000\))Tj
+/TT4 1 Tf
+6.66 0 TD
+-0.0006 Tc
+0.0106 Tw
+[(, which )-10(denotes the number of po)-10.6(ints in thi)7.2(s)-1.4( set. The nex)-10.6(t)-2.8( )]TJ
+/TT2 1 Tf
+23.28 0 TD
+-0.0022 Tc
+0 Tw
+(N )Tj
+/TT4 1 Tf
+0.98 0 TD
+-0.0005 Tc
+0.0105 Tw
+[(line contains)8.7( )]TJ
+-30.92 -1.15 TD
+-0.0006 Tc
+[(the coordin)-10.6(a)3.2(tes of)-7.6( )]TJ
+/TT2 1 Tf
+7.45 0 TD
+0 Tc
+0 Tw
+(N)Tj
+/TT4 1 Tf
+0.72 0 TD
+-0.0001 Tc
+0.0101 Tw
+[( two)-10.1(-)2.9(dimensional points. The)-6.3( first of)-7.1( the two)-10.1( numbers)-10.9( )-10(denotes the)-6.2( )]TJ
+/TT2 1 Tf
+26.77 0 TD
+-0.0022 Tc
+0 Tw
+(X-)Tj
+-34.94 -1.15 TD
+0.0014 Tc
+[(c)5.2(oor)5.2(dinat)4.4(e)]TJ
+/TT4 1 Tf
+4.55 0 TD
+0.0018 Tc
+0.1682 Tw
+[( a)5.6(nd the la)5.6(tter)4.8( de)5.6(note)5.6(s)1( the)5.6( )]TJ
+/TT2 1 Tf
+11.53 0 TD
+0.0025 Tc
+0 Tw
+[(Y)4.7(-)5.5(c)6.3(o)2.5(o)-7.5(r)6.3(dinat)5.5(e)]TJ
+/TT4 1 Tf
+5.61 0 TD
+-0.0001 Tc
+0.1701 Tw
+[(. The)-6.3( input is terminated b)-20.1(y)19.9( a s)-10.9(e)3.7(t )]TJ
+-21.69 -1.15 TD
+-0.0015 Tc
+0 Tw
+(whose )Tj
+/TT2 1 Tf
+2.89 0 TD
+-0.001 Tc
+(N=0)Tj
+/TT4 1 Tf
+1.79 0 TD
+0.0007 Tc
+0.0893 Tw
+[(. This se)4.5(t sho)10.7(u)0.7(ld not be)4.5( pr)3.7(oc)4.5(e)4.5(sse)4.5(d. The)4.5( va)4.5(lue)4.5( of)3.7( the)4.5( c)4.5(oor)3.7(dina)4.6(tes will be)4.5( le)4.6(ss)9.9( )]TJ
+-4.68 -1.15 TD
+0.0011 Tc
+0 Tw
+[(tha)4.9(n)1.1( )]TJ
+/TT2 1 Tf
+1.97 0 TD
+0 Tc
+(40000)Tj
+/TT4 1 Tf
+2.5 0 TD
+-0.0003 Tc
+0.0003 Tw
+[( and non-ne)-6.5(ga)-6.5(tive. )]TJ
+-4.47 -1.33 TD
+0 Tc
+0 Tw
+( )Tj
+/TT2 1 Tf
+14.04 0 0 14.04 93.0406 436.8 Tm
+( )Tj
+18 0 0 18 90.0406 417 Tm
+-0.0009 Tc
+(Output )Tj
+/TT4 1 Tf
+6.96 0 0 6.96 90.0406 406.56 Tm
+0 Tc
+( )Tj
+12 0 0 12 90.0406 394.08 Tm
+-0.0005 Tc
+0.0805 Tw
+[(F)5.7(o)-0.5(r e)-6.7(ach set o)-10.5(f)2.5( input produce a sin)-10.5(g)9.5(le line of out)-12.7(put containing)9.5( a )-10(floating point number)-7.5( )]TJ
+0 -1.15 TD
+-0.0007 Tc
+0.0707 Tw
+[(\(with four dig)9.3(its after th)-10.7(e decimal point\) which denotes the distance betw)-8.5(een the closest )]TJ
+T*
+0.0001 Tc
+0.0499 Tw
+[(two points. )-10(I)13.1(f)3.1( th)-9.9(ere)-6.1( is no)-9.9( such two)-9.9( points in the i)-12.1(nput whose distanc)-6(e)3.9( is l)-12.1(e)-6.1(ss than )]TJ
+/TT2 1 Tf
+33.25 0 TD
+0 Tc
+0 Tw
+(10000)Tj
+/TT4 1 Tf
+2.5 0 TD
+(, )Tj
+-35.75 -1.15 TD
+0.0012 Tc
+-0.0012 Tw
+[(pr)4.2(int the)5( line)5( )]TJ
+/TT2 1 Tf
+5.36 0 TD
+0.0005 Tc
+0 Tw
+[(INF)11.3(I)-0.3(NITY)]TJ
+/TT4 1 Tf
+4.6 0 TD
+0.01 Tc
+(. )Tj
+/TT2 1 Tf
+14.04 0 0 14.04 90.0406 336.72 Tm
+0 Tc
+( )Tj
+18 0 0 18 90.0406 316.92 Tm
+-0.001 Tc
+0.0043 Tw
+[(Sample)-3.8( Input )]TJ
+/F1 1 Tf
+12 0 0 12 90.0406 303.36 Tm
+0 Tc
+0 Tw
+(3)Tj
+0 -1 TD
+0.6 Tc
+(00)Tj
+T*
+0 Tc
+[(10000)-600(10000)]TJ
+T*
+[(20000)-600(20000)]TJ
+T*
+(5)Tj
+T*
+0.6 Tc
+(02)Tj
+T*
+[(66)600(7)]TJ
+T*
+0 Tc
+[(43)-600(71)]TJ
+T*
+[(39)-600(107)]TJ
+T*
+[(189)-600(140)]TJ
+T*
+(0)Tj
+/TT4 1 Tf
+0.6 0 TD
+( )Tj
+/TT2 1 Tf
+18 0 0 18 90.0406 164.28 Tm
+( )Tj
+0 -1.1533 TD
+-0.0005 Tc
+0.0038 Tw
+[(Sample)-3.3( Output )]TJ
+/F1 1 Tf
+12 0 0 12 90.0406 129.9601 Tm
+0 Tc
+0 Tw
+(INFINITY)Tj
+0 -1 TD
+(36.2215)Tj
+ET
+0.502 0.502 0.502 scn
+1 i 
+90.041 107.76 432 -1.56 re
+f*
+90.041 107.64 0.24 -0.24 re
+f
+90.041 107.64 0.24 -0.24 re
+f
+90.281 107.64 431.52 -0.24 re
+f
+0.831 0.816 0.784 scn
+521.801 107.64 0.24 -0.24 re
+f
+0.502 0.502 0.502 scn
+521.801 107.64 0.24 -0.24 re
+f
+90.041 107.4 0.24 -1.08 re
+f
+0.831 0.816 0.784 scn
+521.801 107.4 0.24 -1.08 re
+f
+0.502 0.502 0.502 scn
+90.041 106.32 0.24 -0.24 re
+f
+0.831 0.816 0.784 scn
+90.041 106.32 0.24 -0.24 re
+f
+90.281 106.32 431.52 -0.24 re
+f
+521.801 106.32 0.24 -0.24 re
+f
+521.801 106.32 0.24 -0.24 re
+f
+BT
+/TT2 1 Tf
+12 0 0 12 90.0406 92.5201 Tm
+0 0 0 scn
+0.0024 Tc
+-0.0024 Tw
+[(\()5.4(Wor)6.2(ld F)13.2(i)0.2(nal Warm)15.4(-)5.4(up)-11.4( C)4.6(o)2.4(nt)5.4(e)6.2(s)1.6(t)5.4(,)2.4( )-10(P)13.2(r)6.2(oblem)15.4( s)-8.4(e)6.2(t)5.4(t)-4.6(er)6.2(:)5.4( Shahr)6.2(iar)6.2( M)6.2(a)2.4(nz)6.2(oor)6.2(\))5.4( )]TJ
+/TT4 1 Tf
+18 -1.13 TD
+0 Tc
+0 Tw
+( )Tj
+ET
+endstream
+endobj
+3 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/F1 4 0 R
+/TT2 5 0 R
+/TT4 6 0 R
+>>
+/ExtGState <<
+/GS1 7 0 R
+>>
+/ColorSpace <<
+/Cs6 8 0 R
+>>
+>>
+endobj
+8 0 obj
+[/ICCBased 10 0 R]
+endobj
+10 0 obj
+<<
+/N 3
+/Alternate /DeviceRGB
+/Length 1296
+/Filter [/ASCII85Decode /FlateDecode]
+>>
+stream
+8;Ue`J:JRX)4@qW?l-<RA2?Qk>b,+>)&NLDOqS4\'p92X5kksR'8&,o0EX69)aco2
+Eaji/YV/OaC0l?1!ue]CN<*jamU_bg`.NqAN(iGES3X>O+>!S8WrS7[i='K?86c5;
+QN6SN<j<$s'GVmG`)].rWrTC/PT:(+B*.<*5kPFSqE]SV!:ic\.nW'SNFY`e,6J#m
+"ill*Uf<'+b2ST6ggUH5]OX/>pN-K07"X1rUaI:s#KWJ;`(-]1$\0dWYn:IF8Z;MP
+G$dL4&$l':&Bb(0T3RnT!quY+7OF52FHCs=qgi4>^rQQ0Q*;."+(SFWOIq\>S.'NY
+O&'5J69nCs>%UMZ.D\alR(4*o+-9hF+Lqa<QPDbLb=Z/i'U4i7`-q^^TK!MaZ?L,>
+pu`u'5KGJgOS"2'ncFUl,,5hp2LW1A8X,QaOmSLj!mqOa>@@n+5KI`%/MR(.P<`Rl
+5X$Si62"N!JVGOO5KN6q,lJjt1U\F\O2Luor?/]g+R'-a]`O!iJG'pA)1g8M`bn6m
+:`+G]!W<P:T+`VrP6^<$+CAM8P5g)\#p;GkXi(dhB4baBA4d]S`b/gkAmo7\kMYF\
+k2GF^(D%8n((h8pQ]RGpQB@Gr=&;jo<`)jqf?i$qf$W$s2_['D2DI'F\$36F[^!6H
+GAqYEG&_YGp[IhGp@7hI%gWRN%LERP#DPTf9Pds]6=Ni58nqOU7V5\E:2XBe6"*W1
+8SM=Q7:fJA9l40a6Xs&995@aY7qYnI:N'V?KSbm>:RO7\qM^iKB$Zl,DuP?BM\[sK
+\nq2"Q)drh=hASML5hZ\DqV^=qi75ZG44+rDuYB@LCPCdHL1E`PG_0J3IC2lKo;9M
+?b(LMqMguRDVr!On,@rpNugN2qX"$9Q`j`1H2I%.LQA&kJ,/s.qi@AaIfK6@n,K?d
+8%ARbi'.c.r;Zd=bk_jd,<]:$rBIUd%gAQ:U%K_9IaL\?6I_>e^&a<+Y-/h)S7(VJ
+FXF'$EWF75lg*Agp;`/?#,VVrp!j-es2AmP[m)/45l;8qZs-rL_EAJr^;_5Dp.#9W
+*p?@<rP&S@s$QI3r/uT++68cI4bVQ31SOY2FtZ,/&$gQ$*n9o(%j:nmDJ8nPCB%#,
+IZW@rOS"1lI^+ZIqa5BW1d6J*-):YUnHn8,!;X_'Ns,lB9V='>`MW`5%O@>AeGlE5
+Xl.qomkim<H118%b_Lub:HoVCr;WbZZfL<2?VJ0RqASkrhRD9Y^V>!kOSlBCVo@!B
+^VYI`s'>VZrQgG;RX]P[oDWssJ+!@:J,oZ0[7+7~>
+endstream
+endobj
+12 0 obj
+<<
+/Length 371
+>>
+stream
+BT
+/TT4 1 Tf
+12 0 0 12 306.0406 709.2 Tm
+/Cs6 cs 0 0 0 scn
+/GS1 gs
+0 Tc
+0 Tw
+( )Tj
+-17.79 -1.15 TD
+-0.0008 Tc
+0.0008 Tw
+[(ìGene)-7(r)2.2(all)-23(y)19.2(, a brut)-13(e for)-7.8(ce )-10(method has onl)-13(y)19.2( two kin)-10.8(d)-0.8(s of repl)-23(y)19.2(,)-0.8( a\) )-10(Accepted )-10(b\) Time )-10(L)20(imit )]TJ
+15.5 -1.15 TD
+-0.0021 Tc
+0 Tw
+[(Ex)-12.1(ceeded.î )]TJ
+ET
+endstream
+endobj
+13 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT4 6 0 R
+>>
+/ExtGState <<
+/GS1 7 0 R
+>>
+/ColorSpace <<
+/Cs6 8 0 R
+>>
+>>
+endobj
+7 0 obj
+<<
+/Type /ExtGState
+/SA false
+/SM 0.02
+/TR2 /Default
+>>
+endobj
+14 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 891
+/CapHeight 0
+/Descent -216
+/Flags 34
+/FontBBox [-558 -307 2034 1026]
+/FontName /TimesNewRomanPS-BoldMT
+/ItalicAngle 0
+/StemV 133
+>>
+endobj
+15 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 891
+/CapHeight 0
+/Descent -216
+/Flags 34
+/FontBBox [-568 -307 2028 1007]
+/FontName /TimesNewRomanPSMT
+/ItalicAngle 0
+/StemV 0
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 122
+/Widths [250 0 0 0 0 0 0 0 333 333 0 0 250 333 0 0 
+500 500 0 0 500 0 0 0 0 0 333 0 570 570 0 0 
+0 0 0 722 0 0 611 0 0 389 500 0 667 944 722 778 
+611 0 0 556 667 0 0 1000 722 722 0 0 0 0 0 0 
+0 500 556 444 556 444 0 0 556 278 0 0 278 833 556 500 
+556 0 444 389 333 556 0 0 0 500 444 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /TimesNewRomanPS-BoldMT
+/FontDescriptor 14 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 148
+/Widths [250 0 0 0 0 0 0 0 333 333 0 0 250 333 250 0 
+0 0 500 500 0 0 0 0 500 0 0 0 0 0 0 0 
+0 722 667 0 0 611 556 722 0 333 0 0 611 889 0 0 
+0 0 0 0 611 0 0 0 0 0 0 0 0 0 0 0 
+0 444 500 444 500 444 333 500 500 278 0 500 278 778 500 500 
+500 0 333 389 278 500 500 722 500 500 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 444 444 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /TimesNewRomanPSMT
+/FontDescriptor 15 0 R
+>>
+endobj
+1 0 obj
+<<
+/Type /Page
+/Parent 9 0 R
+/Resources 3 0 R
+/Contents 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Type /Page
+/Parent 9 0 R
+/Resources 13 0 R
+/Contents 12 0 R
+>>
+endobj
+16 0 obj
+<<
+/S /D
+>>
+endobj
+17 0 obj
+<<
+/Nums [0 16 0 R ]
+>>
+endobj
+9 0 obj
+<<
+/Type /Pages
+/Kids [1 0 R 11 0 R]
+/Count 2
+/MediaBox [0 0 612 792]
+>>
+endobj
+18 0 obj
+<<
+/Type /Catalog
+/Pages 9 0 R
+/PageLabels 17 0 R
+>>
+endobj
+19 0 obj
+<<
+/CreationDate (D:20020227191108)
+/Producer (Acrobat Distiller 4.0 for Windows)
+>>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000009169 00000 n 
+0000000016 00000 n 
+0000005553 00000 n 
+0000008128 00000 n 
+0000008223 00000 n 
+0000008672 00000 n 
+0000007694 00000 n 
+0000005698 00000 n 
+0000009400 00000 n 
+0000005732 00000 n 
+0000009249 00000 n 
+0000007146 00000 n 
+0000007569 00000 n 
+0000007765 00000 n 
+0000007950 00000 n 
+0000009332 00000 n 
+0000009360 00000 n 
+0000009488 00000 n 
+0000009557 00000 n 
+trailer
+<<
+/Size 20
+/Root 18 0 R
+/Info 19 0 R
+/ID [<d024f8d0c91fbd72568720f99ecbe9b1><d024f8d0c91fbd72568720f99ecbe9b1>]
+>>
+startxref
+9658
+%%EOF
