@@ -21,7 +21,7 @@
 | 3 | Algorithms  |  Contains algorithm implementation and explanation in detail. |
 | 4 | Books | Books helpful for competitive programming |
 | 5 | Motive  | Details and history about ACM ICPC. |
-| 6 | Standard template library | Reference for standard templte library in C++. |
+| 6 | Standard template library | Reference for standard template library in C++. |
 | 7 | Techniques| Some good practices in competitive programming. |
   
 #### Reference links
