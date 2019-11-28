@@ -1,5 +1,5 @@
 
-## Documentation :star: :star:
+## Documentation :star: 
 [Awesome competitive programming github link](https://github.com/lnishan/awesome-competitive-programming/blob/master/README.md)
 
 #### Motivation :+1: 
